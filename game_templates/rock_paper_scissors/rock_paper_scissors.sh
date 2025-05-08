@@ -6,6 +6,9 @@
 # 👉 Write a program in bash that plays Rock, Paper, Scissors. Ask the user to choose one,
 #    have the computer randomly choose one, and print whether the user won, lost, or tied.
 
+# If you like the model output, hover over the response and select the middle icon to insert at cursor point. 
+# Ensure the cursor is in the below section of the file where we'll keep our code.
+
 # 🎯 Objective:
 # - Step 1: Ask the user to input rock, paper, or scissors
 # - Step 2: Computer picks one randomly
@@ -21,19 +24,10 @@
 # Start with a large model to get the full script scaffold.
 # Then switch to a small one and ask it to "make it more fun" or "add a winning streak tracker."
 
-# === Begin coding below this line ===
-
-# Step 1: Prompt user for input (rock, paper, or scissors)
-
-
-# Step 2: Generate computer's choice (rock, paper, or scissors)
-
-
-# Step 3: Determine the winner and print result
-
-
 # === 💡 Bonus Ideas ===
 # Try these with Continue.dev after the game works:
 # - Make it "best of 3" game
 # - Add fun responses like "Scissors beats paper - snip!"
 # - Add emojis or terminal color to the output
+
+# === Begin coding below this line ===

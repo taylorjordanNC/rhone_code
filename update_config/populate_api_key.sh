@@ -7,6 +7,6 @@ export VLLM_API_KEY=$(python -c 'import secrets; print(secrets.token_urlsafe())'
 echo "Your generated API key is: $VLLM_API_KEY"
 
 # Substitute API key into YAML template
-envsubst < config-template.yaml > ~/.config/instructlab/config.yaml
+envsubst < ~/rhone_code/update_config/config-template.yaml > ~/.config/instructlab/config.yaml
 
 echo "Your config.yaml file is now updated with your API key for remote access."

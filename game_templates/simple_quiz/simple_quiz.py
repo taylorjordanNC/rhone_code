@@ -4,6 +4,9 @@
 # 👉 Write a program in Python that asks 3 trivia questions and gives the user a score at the end.
 #    Accept user input for each answer and print whether it’s correct.
 
+# If you like the model output, hover over the response and select the middle icon to insert at cursor point. 
+# Ensure the cursor is in the below section of the file where we'll keep our code.
+
 # 🎯 Objective:
 # - Step 1: Ask 3 trivia questions
 # - Step 2: Accept user input and check if the answer is correct
@@ -19,23 +22,14 @@
 # Use a large model to scaffold the full quiz.
 # Then switch to a smaller one and ask: “Make the output more fun” or “Add random trivia facts.”
 
-# === Begin coding below this line ===
-
-# Step 1: Ask first trivia question
-
-
-# Step 2: Ask second trivia question
-
-
-# Step 3: Ask third trivia question
-
-
-# Step 4: Tally the score and show result
-
-
 # === 💡 Bonus Ideas ===
 # Try these with Continue.dev after the game works:
 # - Ask the AI to add more questions
 # - Make it multiple choice
 # - Track correct/incorrect answers and print a summary at the end
+
+# === Begin coding below this line ===
+
+
+
 

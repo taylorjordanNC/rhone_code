@@ -4,6 +4,9 @@
 # 👉 Write a program in python that scrambles a word and asks the user to guess the original.
 #    Let them try again until they get it right or quit.
 
+# If you like the model output, hover over the response and select the middle icon to insert at cursor point. 
+# Ensure the cursor is in the below section of the file where we'll keep our code.
+
 # 🎯 Objective:
 # - Step 1: Choose or define a word to scramble
 # - Step 2: Scramble the word and display it to the user
@@ -20,20 +23,14 @@
 # Start with a large model to scaffold the game logic.
 # Then switch to a 1–2B model and ask: “Make this game sillier” or “Add multiple difficulty levels.”
 
-# === Begin coding below this line ===
-
-# Step 1: Choose a word and scramble it
-
-
-# Step 2: Prompt user to guess repeatedly
-
-
-# Step 3: Track win or quit condition and print result
-
-
 # === 💡 Bonus Ideas ===
 # Try these with Continue.dev after the game works:
 # - Make it a “best of 3” game
 # - Add playful responses (e.g., “You’re getting warmer... 🔥”)
 # - Add emojis or terminal colors to celebrate a win 🎉
+
+# === Begin coding below this line ===
+
+
+
 
